@@ -12,6 +12,8 @@ const PageNotFound = () => {
         <div className="text-xl font-bold">404</div>
         <div className="text-3xl font-bold">Page Not Found</div>
         <hr className="my-4 w-[400px] rounded-lg bg-white" />
+
+        
         <div className="w-full">
           <div className="w-min whitespace-nowrap rounded-xl p-2 px-8 outline outline-1">
             <Link to="/">Go to Home</Link>

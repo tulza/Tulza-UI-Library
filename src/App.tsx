@@ -5,7 +5,7 @@ import AnimatedRoute from "./route/AnimatedRoute";
 
 function App() {
   return (
-    <Router basename="/vite-react-ts-template">
+    <Router basename="/Tulza-UI-Library">
       <AnimatedRoute />
     </Router>
   );
